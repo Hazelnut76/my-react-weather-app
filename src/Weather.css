@@ -46,4 +46,9 @@
   line-height: 1;
   position: relative;
   top: -34px;
+
+}
+
+.WeatherTemperature a {
+text-decoration: none;
 }
