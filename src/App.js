@@ -10,7 +10,7 @@ export default function App() {
 
       </div>
   
-      <Weather />
+      <Weather defaultCity="New York" />
       <footer>
         This project was coded by Emmah Nyashanu and is{" "}
         <a
